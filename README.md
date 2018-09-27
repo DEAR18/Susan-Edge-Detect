@@ -1,6 +1,15 @@
 # SUSAN-Edge-Detect
 This is a edge detector with SUSAN algorithm.
 
+effect without non maximum suppression:
+![](https://github.com/DEAR18/SUSAN-Edge-Detect/raw/master/effect/T_effect.png)<br>
+effect with non maximum suppression:
+![](https://github.com/DEAR18/SUSAN-Edge-Detect/raw/master/effect/T_effect2.png)<br>
+effect without non maximum suppression:
+![](https://github.com/DEAR18/SUSAN-Edge-Detect/raw/master/effect/lena_effect.png)<br>
+effect with non maximum suppression:
+![](https://github.com/DEAR18/SUSAN-Edge-Detect/raw/master/effect/lena_effect2.png)<br>
+
 ## 1. Prerequisites
 1.1 opencv library
 
