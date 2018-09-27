@@ -21,3 +21,6 @@ The following summary is copied from [here](https://users.fmrib.ox.ac.uk/~steve/
 2.3 Subtract the USAN size from the geometric threshold to produce an edge strength image.<br>
 2.4 Use moment calculations applied to the USAN to find the edge direction.<br>
 2.5 Apply non-maximum suppression, thinning and sub-pixel estimation, if required.<br>
+
+## 3. Others
+The effect seems not to be the best. I will updata the effect image after the code being improved.
