@@ -1,5 +1,5 @@
 # SUSAN-Edge-Detect
-This is a edge detector with SUSAN algorithm.
+This is an edge detector with SUSAN algorithm.
 
 effect without non maximum suppression:
 ![](https://github.com/DEAR18/SUSAN-Edge-Detect/raw/master/effect/T_effect.png)<br>
